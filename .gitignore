@@ -50,3 +50,9 @@ tc/
 
 spring.log
 logs/
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+.factorypath
